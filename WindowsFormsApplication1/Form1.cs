@@ -21,6 +21,7 @@ namespace WindowsFormsApplication1
         {
             //nothing yet
             //vkrkm
+            System.Console.WriteLine("Hello World");
         }
     }
 }
